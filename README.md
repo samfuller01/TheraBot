@@ -1,6 +1,6 @@
 # Thera Discord Bot
 
-![Property of CCP Games]](https://images.ctfassets.net/7lhcm73ukv5p/1rS96YuV4c29hjKlMM0YYa/873b64b4d5340d6f5ace1a3294c9d00a/ThumbClean.jpg?w=850&fm=jpg&fl=progressive&q=75)
+![Property of CCP Games](https://images.ctfassets.net/7lhcm73ukv5p/1rS96YuV4c29hjKlMM0YYa/873b64b4d5340d6f5ace1a3294c9d00a/ThumbClean.jpg?w=850&fm=jpg&fl=progressive&q=75)
 
 Welcome to the Thera Discord bot! his bot has been specifically designed to help users navigate the Thera wormhole system in EVE Online by providing them with real-time information on current connections and the proximity of various systems to Thera.
 
