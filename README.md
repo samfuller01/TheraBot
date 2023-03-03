@@ -32,7 +32,8 @@ To use the Thera Discord bot, simply type one of the following commands into a c
 
   - `/ping` - tests that the bot is online
   - `/thera` - displays the current Thera connections
-  - `/system_lookup <system name>` - provides the closest Thera connection to the given system
+  - `/lookup <system name>` - provides the closest Thera connection to the given system
+  - `/route <source system> <destination system>` - provides the shortest route through Thera from system one to system two
 
 ## Todo
 
