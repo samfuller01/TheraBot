@@ -1,3 +1,4 @@
 .env
 thera-bot-env/
+__pycache__/
 discord.log
